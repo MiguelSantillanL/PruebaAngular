@@ -1,0 +1,6 @@
+.computer-container {
+  display: flex;
+  flex-direction: column;
+  width: 360px;
+  margin: auto;
+}
